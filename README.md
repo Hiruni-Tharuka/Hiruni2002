@@ -28,7 +28,7 @@ I enjoy writing tech articles, learning notes, and idea sharing on [Medium](http
 - Medium: [Medium Profile](https://medium.com/@hirunutharaka)
 
 ## 📫 Reach Me
-- Email: hiruni.personal01@gmail.com
+- **Email:** [hiruni.personal01@gmail.com](mailto:hiruni.personal01@gmail.com)
 - LinkedIn: [Hiruni Tharuka](https://www.linkedin.com/in/hiruni-tharuka)
 
 _Thanks for visiting my profile...! Let's build and learn together._
