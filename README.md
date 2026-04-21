@@ -25,7 +25,7 @@ I'm a passionate learner and developer with interests in both frontend and backe
 
 ## ✍️ My Writings on Medium
 I enjoy writing tech articles, learning notes, and idea sharing on [Medium](https://medium.com/). I believe in sharing knowledge to grow together.
-- Medium: medium.com/@hirunutharaka
+- Medium: [Medium Profile](https://medium.com/@hirunutharaka)
 
 ## 📫 Reach Me
 - Email: hiruni.personal01@gmail.com
