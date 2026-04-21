@@ -27,7 +27,7 @@ I'm a passionate learner and developer with interests in both frontend and backe
 I enjoy writing tech articles, learning notes, and idea sharing on [Medium](https://medium.com/). I believe in sharing knowledge to grow together.
 
 ## 📫 Reach Me
-- Email: hirunutharaka@gmail.com
+- Email: hiruni.personal01@gmail.com
 - LinkedIn:
 
 _Thanks for visiting my profile...! Let's build and learn together._
